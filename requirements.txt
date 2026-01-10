@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+groq cloud
+python-multipart
+python-dotenv
